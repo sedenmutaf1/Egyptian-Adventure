@@ -13,10 +13,8 @@ This project was built as a fun exercise in Unity game development, showcasing b
 * Experience simple but engaging mechanics
 
 👉 *A gameplay video preview will be shown here:*
+[![Watch the video])](https://drive.google.com/file/d/1I2esH2U4DtXHsNgYbUi4OL-ukV5i_1PI/view?usp=sharing)
 
-[//]: # "Replace the line below with the actual video embed/link"
-
-[▶ Watch Gameplay Video](Egyptian_Adventure.mp4)
 
 ---
 
