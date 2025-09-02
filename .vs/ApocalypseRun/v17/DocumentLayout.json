@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\seden\\ApocalypseRun\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D015A07-769D-5A77-8D7F-2B5A3D2FC6AB}|Assembly-CSharp.csproj|c:\\users\\seden\\apocalypserun\\assets\\scripts\\game\\platformgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D015A07-769D-5A77-8D7F-2B5A3D2FC6AB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\platformgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D015A07-769D-5A77-8D7F-2B5A3D2FC6AB}|Assembly-CSharp.csproj|c:\\users\\seden\\apocalypserun\\assets\\scripts\\game\\heartgem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D015A07-769D-5A77-8D7F-2B5A3D2FC6AB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\heartgem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D015A07-769D-5A77-8D7F-2B5A3D2FC6AB}|Assembly-CSharp.csproj|c:\\users\\seden\\apocalypserun\\assets\\scripts\\game\\playercontoller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D015A07-769D-5A77-8D7F-2B5A3D2FC6AB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\playercontoller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerContoller.cs",
+              "DocumentMoniker": "C:\\Users\\seden\\ApocalypseRun\\Assets\\Scripts\\Game\\PlayerContoller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\PlayerContoller.cs",
+              "ToolTip": "C:\\Users\\seden\\ApocalypseRun\\Assets\\Scripts\\Game\\PlayerContoller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\PlayerContoller.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAowFsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T12:26:31.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HeartGem.cs",
+              "DocumentMoniker": "C:\\Users\\seden\\ApocalypseRun\\Assets\\Scripts\\Game\\HeartGem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\HeartGem.cs",
+              "ToolTip": "C:\\Users\\seden\\ApocalypseRun\\Assets\\Scripts\\Game\\HeartGem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\HeartGem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T12:26:03.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlatformGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\seden\\ApocalypseRun\\Assets\\Scripts\\Game\\PlatformGenerator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\PlatformGenerator.cs",
+              "ToolTip": "C:\\Users\\seden\\ApocalypseRun\\Assets\\Scripts\\Game\\PlatformGenerator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\PlatformGenerator.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAgwGsAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T12:23:37.605Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
