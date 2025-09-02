@@ -13,7 +13,7 @@ This project was built as a fun exercise in Unity game development, showcasing b
 * Experience simple but engaging mechanics
 
 👉 *A gameplay video preview will be shown here:*
-[![Watch the video])](https://drive.google.com/file/d/1I2esH2U4DtXHsNgYbUi4OL-ukV5i_1PI/view?usp=sharing)
+[![Watch the video])](https://drive.google.com/file/d/1YkMavBloG6t5J_eRqLkNPhOnkB4uTfY4/view?usp=sharing)
 
 
 ---
